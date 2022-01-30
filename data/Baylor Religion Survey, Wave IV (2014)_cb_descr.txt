@@ -1,0 +1,1412 @@
+Data File: BRS2014 (Description Only Codebook)
+
+1) MOTHERLODE_ID
+Motherlode ID
+
+
+
+2) PROJECT_ID
+Project ID
+
+
+
+3) RESPONDENT_ID
+Respondent ID
+
+
+
+4) METHOD_ID
+Method ID
+
+
+
+5) METHOD_TYPE
+Method type
+
+
+
+6) PROJECT_NUMBER
+Project number
+
+
+
+7) CREATED_ON
+Created on
+
+
+
+8) PRACTICE
+Practice
+
+
+
+9) RESPONDENT_DATE
+Respondent Date
+
+
+
+10) RESPONDENT_LANGUAGE
+Respondent Language
+
+
+
+11) TEMPLATE_NUMBER_162048140
+TEMPLATE_NUMBER_162048140
+
+
+
+12) ENTITY_ID
+Entity ID
+
+
+
+13) SCAN_RESPONDENT_ID
+SCAN_RESPONDENT_ID
+
+
+
+14) AUTO_INCREMENT
+Auto Increment
+
+
+
+15) CASEID
+Caseid AUTO_INCREMENT
+
+
+
+16) BATCH_ID
+Batch ID
+
+
+
+17) LANG1
+LANG1
+
+
+
+18) Q1
+With what religious family, if any, do you most closely identify? (Please mark only one box.)
+
+
+
+19) Q2_DK
+If possible, please provide the specific name of your denomination/sect. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination? Don't know
+
+
+
+20) Q3
+How religious do you consider yourself to be?
+
+
+
+21) Q3_1
+How spiritual do you consider yourself to be?
+
+
+
+22) Q4
+How often do you attend religious services at a place of worship?
+
+
+
+23) Q7
+How long have you attended your current place of worship?
+
+
+
+24) Q8
+On average, how many people attend services at your current place of worship? Just your best estimate will do.
+
+
+
+25) Q25
+Which one of the following best describes you?
+
+
+
+26) Q10
+About how often do you spend time alone praying outside of religious services?
+
+
+
+27) Q11
+Outside of attending religious services, about how often do you spend time alone reading the Bible, Koran, Torah, or other sacred book?
+
+
+
+28) Q13A
+How often did you participate in the following religious or faith-based activities in the last month? Church social gatherings like fellowships or potlucks
+
+
+
+29) Q13B
+How often did you participate in the following religious or faith-based activities in the last month? Religious education programs, such as Bible study or Sunday school
+
+
+
+30) Q13C
+How often did you participate in the following religious or faith-based activities in the last month? Choir practice or other musical programs
+
+
+
+31) Q13D
+How often did you participate in the following religious or faith-based activities in the last month? Discussion groups about faith in the workplace
+
+
+
+32) Q13E
+How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with friends
+
+
+
+33) Q13F
+How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with strangers
+
+
+
+34) Q13G
+How often did you participate in the following religious or faith-based activities in the last month? Community prayer group not affiliated or sponsored by a congregation (e.g., in the neighborhood, at work, etc.)
+
+
+
+35) Q13H
+How often did you participate in the following religious or faith-based activities in the last month? Community Bible study not affiliated or sponsored by a congregation (e.g., in the neighborhood, at work, etc.)
+
+
+
+36) Q13I
+How often did you participate in the following religious or faith-based activities in the last month? Counseling programs sponsored by a place of worship
+
+
+
+37) Q13J
+How often did you participate in the following religious or faith-based activities in the last month? Going to confession
+
+
+
+38) Q13K
+How often did you participate in the following religious or faith-based activities in the last month? Praying the rosary
+
+
+
+39) Q13L
+How often did you participate in the following religious or faith-based activities in the last month? Speaking or praying in tongues
+
+
+
+40) Q14A
+How many of your friends: Attend your place of worship?
+
+
+
+41) Q14B
+How many of your friends: Attend a different place of worship?
+
+
+
+42) Q14C
+How many of your friends: Do not attend religious services?
+
+
+
+43) Q14D
+How many of your friends: Are black or African American?
+
+
+
+44) Q14E
+How many of your friends: Are Asian or Asian American?
+
+
+
+45) Q14F
+How many of your friends: Are Latino or Hispanic American?
+
+
+
+46) Q14G
+How many of your friends: Are white non-Hispanic American?
+
+
+
+47) Q17
+Which one statement comes closest to your personal beliefs about the Bible? (Please mark only one box.)
+
+
+
+48) Q18
+Which one statement comes closest to your personal beliefs about God? (Please mark only one box.)
+
+
+
+49) Q9
+During the last year, approximately how much money (if any) did you and other family members in your household contribute to your current place of worship?
+
+
+
+50) Q19A
+Based on your personal understanding, what do you think God is like? Concerned with the well-being of the world
+
+
+
+51) Q19B
+Based on your personal understanding, what do you think God is like? Angered by my sins
+
+
+
+52) Q19C
+Based on your personal understanding, what do you think God is like? Directly involved in world affairs
+
+
+
+53) Q19D
+Based on your personal understanding, what do you think God is like? Concerned with my personal well-being
+
+
+
+54) Q19E
+Based on your personal understanding, what do you think God is like? Directly involved in my affairs
+
+
+
+55) Q19F
+Based on your personal understanding, what do you think God is like? Angered by human sins
+
+
+
+56) Q20A
+How well do you feel that each of the following words describe God in your opinion? Absolute
+
+
+
+57) Q20B
+How well do you feel that each of the following words describe God in your opinion? Critical
+
+
+
+58) Q20C
+How well do you feel that each of the following words describe God in your opinion? Fatherly
+
+
+
+59) Q20D
+How well do you feel that each of the following words describe God in your opinion? Punishing
+
+
+
+60) Q20E
+How well do you feel that each of the following words describe God in your opinion? Just
+
+
+
+61) Q20F
+How well do you feel that each of the following words describe God in your opinion? Wrathful
+
+
+
+62) Q20G
+How well do you feel that each of the following words describe God in your opinion? Forgiving
+
+
+
+63) Q20H
+How well do you feel that each of the following words describe God in your opinion? Severe
+
+
+
+64) Q21
+What is the primary way you know how God wants you to live? Choose the best answer that applies to you.
+
+
+
+65) Q23A
+In your opinion, does each of the following exist? The Devil/Satan
+
+
+
+66) Q23B
+In your opinion, does each of the following exist? Heaven
+
+
+
+67) Q23C
+In your opinion, does each of the following exist? Hell
+
+
+
+68) Q23D
+In your opinion, does each of the following exist? Purgatory
+
+
+
+69) Q23E
+In your opinion, does each of the following exist? Armageddon
+
+
+
+70) Q23F
+In your opinion, does each of the following exist? Angels
+
+
+
+71) Q23G
+In your opinion, does each of the following exist? Demons
+
+
+
+72) Q24A
+Please indicate your level of agreement with the following statements. I believe in ultimate truth in life.
+
+
+
+73) Q24B
+Please indicate your level of agreement with the following statements. It is useless to try to discover the purpose of my life.
+
+
+
+74) Q24C
+Please indicate your level of agreement with the following statements. It is important to have a significant philosophy of life.
+
+
+
+75) Q24D
+Please indicate your level of agreement with the following statements. I know my purpose in life.
+
+
+
+76) Q24E
+Please indicate your level of agreement with the following statements. My purpose is part of a much larger plan.
+
+
+
+77) Q24F
+Please indicate your level of agreement with the following statements. I do not believe there is any ultimate meaning in life.
+
+
+
+78) Q24G
+Please indicate your level of agreement with the following statements. I seek out opportunities to attain eternal wisdom for life.
+
+
+
+79) Q26
+If you were unsure of what was right or wrong in a particular situation, how would you decide what to do? Would you: (Please mark only one box.)
+
+
+
+80) Q27A
+How do you feel about the morality of the following? Abortion, if the pregnancy is the result of rape
+
+
+
+81) Q27B
+How do you feel about the morality of the following? Abortion, if the family cannot afford the child
+
+
+
+82) Q27C
+How do you feel about the morality of the following? Birth control
+
+
+
+83) Q27D
+How do you feel about the morality of the following? Divorce, if children are present
+
+
+
+84) Q27E
+How do you feel about the morality of the following? Premarital sex
+
+
+
+85) Q28A
+Thinking about men, women, and raising families: It is much better for everyone if the man earns the main living and the woman takes care of the home and family.
+
+
+
+86) Q28B
+Thinking about men, women, and raising families: If a man and woman both work full-time, they should share housework tasks equally.
+
+
+
+87) Q28C
+Thinking about men, women, and raising families: Preschool children suffer if their mother is employed at a full-time job.
+
+
+
+88) Q29
+For whom did you vote in the 2012 presidential election?
+
+
+
+89) Q30A
+In the year leading up to the 2012 presidential election, did you... Read newspaper or magazine stories about the election?
+
+
+
+90) Q30B
+In the year leading up to the 2012 presidential election, did you... Visit Internet sites related to the election?
+
+
+
+91) Q30C
+In the year leading up to the 2012 presidential election, did you... Give money to a political campaign/party/candidate?
+
+
+
+92) Q30D
+In the year leading up to the 2012 presidential election, did you... Write, call, or visit a public official?
+
+
+
+93) Q30E
+In the year leading up to the 2012 presidential election, did you... Attend a political rally or meeting?
+
+
+
+94) Q30F
+In the year leading up to the 2012 presidential election, did you... Attend a class or lecture about social/political issues?
+
+
+
+95) Q30G
+In the year leading up to the 2012 presidential election, did you... Participate in a public protest or demonstration?
+
+
+
+96) Q30H
+In the year leading up to the 2012 presidential election, did you... Work for a political campaign/voter registration drive?
+
+
+
+97) Q30I
+In the year leading up to the 2012 presidential election, did you... Watch or listen to a political debate?
+
+
+
+98) Q31
+How would you describe yourself politically?
+
+
+
+99) Q32
+Do you think of yourself as Republican, Democrat, or Independent?
+
+
+
+100) Q33
+How much have you heard or read about the Tea Party movement?
+
+
+
+101) Q34
+Is your opinion of the Tea Party movement:
+
+
+
+102) Q35
+Do you consider yourself to be a supporter of the Tea Party movement?
+
+
+
+103) Q36A
+How much would you say that you trust the following people or groups? People in general
+
+
+
+104) Q36B
+How much would you say that you trust the following people or groups? Your neighbors
+
+
+
+105) Q36C
+How much would you say that you trust the following people or groups? Your coworkers
+
+
+
+106) Q36D
+How much would you say that you trust the following people or groups? Strangers
+
+
+
+107) Q36E
+How much would you say that you trust the following people or groups? Banks
+
+
+
+108) Q36F
+How much would you say that you trust the following people or groups? The police
+
+
+
+109) Q36G
+How much would you say that you trust the following people or groups? Oil companies
+
+
+
+110) Q37A
+Please indicate your level of agreement with the following statements. Poor people have become too dependent on the government.
+
+
+
+111) Q37B
+Please indicate your level of agreement with the following statements.The economic system is working against me.
+
+
+
+112) Q37C
+Please indicate your level of agreement with the following statements. The rich get richer while the poor get poorer.
+
+
+
+113) Q37D
+Please indicate your level of agreement with the following statements. The political system is working against me.
+
+
+
+114) Q37E
+Please indicate your level of agreement with the following statements. We should restrict and control people coming into our country more than we do now.
+
+
+
+115) Q38
+Some people think that the government in Washington is trying to do too many things that should be left to individuals and private businesses. Others disagree and think that the government should do even more to solve our country's problems. Still, others have opinions somewhere in between. Which one of the following statements about the proper role of government best applies to you?
+
+
+
+116) Q39A
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving and protecting the environment.
+
+
+
+117) Q39B
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving and protecting the nation's health/wellness.
+
+
+
+118) Q39C
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Reducing crime.
+
+
+
+119) Q39D
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving the nation's education system.
+
+
+
+120) Q39E
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: The military and defense.
+
+
+
+121) Q39F
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Welfare.
+
+
+
+122) Q39G
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Supporting scientific research.
+
+
+
+123) Q39H
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Patrolling and controlling our borders.
+
+
+
+124) Q39I
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Enforcing affirmative action in the workplace.
+
+
+
+125) Q40
+When it comes to the availability of good jobs in America, some say that America's best years are behind us, while others say our best years are yet to come. What do you think?
+
+
+
+126) Q41
+Do you think that you can trust the federal government in Washington, DC, to do what is right?
+
+
+
+127) Q42
+Do you think that it is ever justified for citizens to take violent action against the government, or is it never justified?
+
+
+
+128) Q43
+If you were asked to use one of these five names for your social class, which would you say you belong in?
+
+
+
+129) Q44
+Do you ever feel at risk that you may drop to a lower social class?
+
+
+
+130) Q45
+In general, how happy are you with your life as a whole these days?
+
+
+
+131) Q46A
+Have you done, or attempted to do, any of the following over the past 12 months? Present yourself as more educated than you were
+
+
+
+132) Q46B
+Have you done, or attempted to do, any of the following over the past 12 months? Claim government benefits to which you were not entitled
+
+
+
+133) Q46C
+Have you done, or attempted to do, any of the following over the past 12 months? Inflate claims to get more money from insurance company or government
+
+
+
+134) Q46D
+Have you done, or attempted to do, any of the following over the past 12 months? Not report all of your income in order to pay less income taxes
+
+
+
+135) Q47
+Think back over the LAST TWO WEEKS, how many times have you had five or more drinks in one sitting? (A 'drink' is a bottle of beer, a glass of wine, a wine cooler, a shot glass of liquor, a mixed drink, etc.)
+
+
+
+136) Q48
+On how many occasions (if any) have you used marijuana (weed, pot) or hashish (hash, hash oil) during the last 30 days?
+
+
+
+137) Q50
+If ever married, please indicate how old you were when you first got married? (Write a number)
+
+
+
+138) Q50_DNA
+If ever married, please indicate how old you were when you first got married? (Write a number) Does not apply
+
+
+
+139) Q51
+If ever divorced, please indicate how old you were when you divorced for the first time? (Write a number)
+
+
+
+140) Q51_DNA
+If you ever divorced, please indicate how old you were when you divorced for the first time? (Write a number) Does not apply
+
+
+
+141) Q51A
+What is your current marital status?
+
+
+
+142) Q52
+Is your spouse/partner employed?
+
+
+
+143) Q53
+All in all, I am satisfied with my relationship with my spouse/partner.
+
+
+
+144) Q54
+How religious does your spouse/partner (if applicable) consider themselves to be?
+
+
+
+145) Q55
+Do you have children?
+
+
+
+146) Q56A
+Please indicate your level of agreement with the following statements. My role as a parent is holy and sacred.
+
+
+
+147) Q56B
+Please indicate your level of agreement with the following statements. I sense God's presence in my relationship with my children.
+
+
+
+148) Q56C
+Please indicate your level of agreement with the following statements. All in all, I am satisfied in my role as a parent.
+
+
+
+149) Q57A
+Please indicate your level of agreement with the following statements. It's better for a person to get married than to go through life being single.
+
+
+
+150) Q57B
+Please indicate your level of agreement with the following statements. Divorce is usually the best solution when a couple can't seem to work out their marital problems.
+
+
+
+151) Q57C
+Please indicate your level of agreement with the following statements. Children ought to let aging parents live with them when the parents can no longer live by themselves.
+
+
+
+152) Q57D
+Please indicate your level of agreement with the following statements. It's better for a person to have a child than to go through life childless.
+
+
+
+153) Q58A
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your spouse/partner
+
+
+
+154) Q58B
+If applicable, how often do/did each of the following attend religious services at a place of worship? You and your spouse/partner together
+
+
+
+155) Q58C
+If applicable, how often do/did each of the following attend religious services at a place of worship? You, when you were around 11 or 12 years old
+
+
+
+156) Q58D
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your mother, when you were a child
+
+
+
+157) Q58E
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your father, when you were a child
+
+
+
+158) Q59A
+Mark only one box in response to these questions. In what religious family were you raised?
+
+
+
+159) Q59B
+Mark only one box in response to these questions. With what religious family does your spouse/partner (if applicable) most closely identify?
+
+
+
+160) Q61A
+Please describe how you feel about gays and lesbians: Gays and lesbians should be allowed civil unions.
+
+
+
+161) Q61B
+Please describe how you feel about gays and lesbians: Gays and lesbians should be allowed to legally marry.
+
+
+
+162) Q61C
+Please describe how you feel about gays and lesbians: People are born either as gay/lesbian or heterosexual.
+
+
+
+163) Q61D
+Please describe how you feel about gays and lesbians: People choose to be gay/lesbian.
+
+
+
+164) Q62
+Do you have any close friends or family members who are gay or lesbian?
+
+
+
+165) Q63
+Are you currently employed?
+
+
+
+166) Q64A
+In your place of employment, how often have you done any of the following? Taken property from work without permission
+
+
+
+167) Q64B
+In your place of employment, how often have you done any of the following? Falsified a receipt to get reimbursed for more money than I spent on a business trip
+
+
+
+168) Q64C
+In your place of employment, how often have you done any of the following? Taken an additional or longer break than is acceptable at my workplace
+
+
+
+169) Q64D
+In your place of employment, how often have you done any of the following? Used an illegal drug or consumed alcohol on the job
+
+
+
+170) Q65A
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: I really feel as if this organization's problems are my own.
+
+
+
+171) Q65B
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: This organization has a great deal of personal meaning to me.
+
+
+
+172) Q66A
+To what extent do you agree with the following statements? God promises that those who live out their faith will receive financial success.
+
+
+
+173) Q66B
+To what extent do you agree with the following statements? Believers who succeed in business are evidence of God's promised blessing.
+
+
+
+174) Q66C
+To what extent do you agree with the following statements? Faithful believers in God receive real financial benefits in this life.
+
+
+
+175) Q66D
+To what extent do you agree with the following statements? All in all, I am satisfied with my job.
+
+
+
+176) Q67A
+Please indicate how often the following statements apply to you. I view my work as a partnership with God.
+
+
+
+177) Q67B
+Please indicate how often the following statements apply to you. I see connections between my worship and my work.
+
+
+
+178) Q67C
+Please indicate how often the following statements apply to you. I view my work as a mission from God.
+
+
+
+179) Q67D
+Please indicate how often the following statements apply to you. I pursue excellence in my work because of my faith.
+
+
+
+180) Q67E
+Please indicate how often the following statements apply to you. I view my work as part of God's plan to care for the needs of people.
+
+
+
+181) Q68A
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My work keeps me from spending enough time with my family.
+
+
+
+182) Q68B
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family keeps me from spending enough time on my work.
+
+
+
+183) Q68C
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family makes me feel very tired and exhausted.
+
+
+
+184) Q68D
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family makes me feel anxious or depressed.
+
+
+
+185) Q68E
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family keeps me from spending enough time on myself.
+
+
+
+186) Q69A
+How many of the people you work with are... White, non-Hispanic.
+
+
+
+187) Q69B
+How many of the people you work with are... Black or African-American.
+
+
+
+188) Q69C
+How many of the people you work with are... Hispanic or Latino.
+
+
+
+189) Q69D
+How many of the people you work with are... Asian.
+
+
+
+190) Q70A
+How many people in your neighborhood are... White, non-Hispanic.
+
+
+
+191) Q70B
+How many people in your neighborhood are... Black or African-American.
+
+
+
+192) Q70C
+How many people in your neighborhood are... Hispanic or Latino.
+
+
+
+193) Q70D
+How many people in your neighborhood are... Asian.
+
+
+
+194) Q71A
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: The availability of guns.
+
+
+
+195) Q71B
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: The absence of God from our public schools and places.
+
+
+
+196) Q71C
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Irresponsible gun owners.
+
+
+
+197) Q71D
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Media violence such as in movies and video games.
+
+
+
+198) Q71E
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Inadequate treatment of mentally ill people.
+
+
+
+199) Q71F
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Inadequate background checks on gun purchases.
+
+
+
+200) Q72
+Have you, or anyone you are close with, ever been threatened with a gun or shot at?
+
+
+
+201) Q73A
+Please tell us whether you oppose or favor the following: A ban on semi-automatic weapons.
+
+
+
+202) Q73B
+Please tell us whether you oppose or favor the following: Expanded gun safety programs.
+
+
+
+203) Q73C
+Please tell us whether you oppose or favor the following: Putting armed security guards/police in more schools.
+
+
+
+204) Q73D
+Please tell us whether you oppose or favor the following: Better mental health screening of gun buyers.
+
+
+
+205) Q73E
+Please tell us whether you oppose or favor the following: A ban on high-capacity ammunition clips that hold more than 10 bullets.
+
+
+
+206) Q73F
+Please tell us whether you oppose or favor the following: More teachers and school officials having guns.
+
+
+
+207) Q73G
+Please tell us whether you oppose or favor the following: Banning the possession of hand guns except by law enforcement.
+
+
+
+208) Q73H
+Please tell us whether you oppose or favor the following: Laws that allow citizens to carry concealed guns.
+
+
+
+209) Q74_NO
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) No hand gun/revolver, long gun, automatic/semi-automatic weapon [Skip to Q75_1A]
+
+
+
+210) Q74A
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Hand gun/revolver.
+
+
+
+211) Q74B
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Long gun.
+
+
+
+212) Q74C
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Automatic/Semi-Automatic weapon.
+
+
+
+213) Q75A
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Safe
+
+
+
+214) Q75B
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Responsible
+
+
+
+215) Q75C
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Confident
+
+
+
+216) Q75D
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Patriotic
+
+
+
+217) Q75E
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: In control of my fate
+
+
+
+218) Q75F
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: More valuable to my family
+
+
+
+219) Q75G
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: More valuable to my community
+
+
+
+220) Q75H
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Respected
+
+
+
+221) Q75_1A
+Please indicate how strongly you agree or disagree with the following statements: The government should be able to monitor everyone's email and other online activities if officials say this might prevent future terrorist attacks.
+
+
+
+222) Q75_1B
+Please indicate how strongly you agree or disagree with the following statements: My personal privacy would not be violated if the government had collected my telephone and Internet data.
+
+
+
+223) Q75_1C
+Please indicate how strongly you agree or disagree with the following statements: I would feel that my personal privacy was violated if I knew the government had collected my telephone or Internet data.
+
+
+
+224) Q76A
+Please indicate how strongly you agree or disagree with the following statements: Some places are haunted by spirits.
+
+
+
+225) Q76B
+Please indicate how strongly you agree or disagree with the following statements: There is good evidence that aliens visited Earth.
+
+
+
+226) Q76C
+Please indicate how strongly you agree or disagree with the following statements: Some UFOs (unidentified flying objects) really are spaceships from other planets.
+
+
+
+227) Q76D
+Please indicate how strongly you agree or disagree with the following statements: Some people can use the power of their minds to move objects without touching them.
+
+
+
+228) Q76E
+Please indicate how strongly you agree or disagree with the following statements: Some people can use the power of their minds to communicate with the dead.
+
+
+
+229) Q76F
+Please indicate how strongly you agree or disagree with the following statements: Bigfoot will one day be discovered.
+
+
+
+230) Q76_1A
+Please answer the following questions without consulting any written sources, Internet sites, or people. We have seasons because the Earth travels closer to the sun in the summer months and farther away during winter months.
+
+
+
+231) Q76_1B
+Please answer the following questions without consulting any written sources, Internet sites, or people. The Earth's continents have been slowly drifting for millions of years.
+
+
+
+232) Q76_1C
+Please answer the following questions without consulting any written sources, Internet sites, or people. These days, most radiation comes from man-made sources.
+
+
+
+233) Q76_1D
+Please answer the following questions without consulting any written sources, Internet sites, or people. When a bullet is shot straight out over a cliff it begins falling the instant it leaves the gun.
+
+
+
+234) Q76_1E
+Please answer the following questions without consulting any written sources, Internet sites, or people. The sun sets in the west because the earth orbits the sun in a westward direction.
+
+
+
+235) Q76_1F
+Please answer the following questions without consulting any written sources, Internet sites, or people. Ice floats on water because water absorbs air as it freezes.
+
+
+
+236) Q76_1G
+Please answer the following questions without consulting any written sources, Internet sites, or people. The glow from a traditional light bulb is caused by the high temperature of the wire inside the bulb.
+
+
+
+237) Q76_1H
+Please answer the following questions without consulting any written sources, Internet sites, or people. Stem cells are only found in embryos.
+
+
+
+238) Q77
+What is your gender?
+
+
+
+239) Q78_M
+What is your date of birth? Month of birth
+
+
+
+240) Q78_Y
+What is your date of birth? Year of birth
+
+
+
+241) Q79
+Are you a citizen of the United States of America?
+
+
+
+242) Q80
+Which of the following BEST describes the place where you now live?
+
+
+
+243) Q80A
+Are you or is anyone in your household current or former military?
+
+
+
+244) Q81
+If you are employed, which of the following best describes your place of employment?
+
+
+
+245) Q83
+How many hours did you work last week? (Write in a number)
+
+
+
+246) Q84
+About how many people work for your employer (including part-time and full-time employees at all locations)?
+
+
+
+247) Q85
+Is your current employer a locally-owned business?
+
+
+
+248) Q86
+Have you ever started a new business?
+
+
+
+249) Q87
+Are you currently trying to start a new business?
+
+
+
+250) Q87A
+In the past five years, have you or someone in your household lost a job because of the bad economy?
+
+
+
+251) Q87B
+Was the person unemployed for a month or longer?
+
+
+
+252) Q88A
+What is your race? White
+
+
+
+253) Q88B
+What is your race? Black or African-American
+
+
+
+254) Q88C
+What is your race? American Indian or Alaska Native
+
+
+
+255) Q88D
+What is your race? Asian
+
+
+
+256) Q88E
+What is your race? Native Hawaiian or other Pacific Islander
+
+
+
+257) Q88F
+What is your race? Some other race (please specify)
+
+
+
+258) Q89
+If you are Hispanic or Latino, which of the following are you?
+
+
+
+259) Q90
+What is the highest level of education you have completed? (Please mark only one box.)
+
+
+
+260) Q91
+If you did not do any work last week for pay or profit, what is the reason?
+
+
+
+261) Q91A
+In the past five years, have you or someone you know faced home foreclosure?
+
+
+
+262) Q92
+How many children do you have? (Write in a number)
+
+
+
+263) Q92_NONE
+How many children do you have? (Write in a number) If none, mark here [Skip to Q94]
+
+
+
+264) Q92A
+How old were you when your first child was born? (Write in a number)
+
+
+
+265) Q93
+How many children under the age of 18 currently live in your household? (Write in a number)
+
+
+
+266) Q93_NONE
+How many children under the age of 18 currently live in your household? (Write in a number) If none, mark here
+
+
+
+267) Q94
+Which of the following best describes you?
+
+
+
+268) Q95
+By your best estimate, what was your total household income last year, before taxes?
+
+
+
+269) BAYLOR_2014_LANGUAGE
+Baylor 2014 Language
+
+
+
+270) AGE
+Age
+
+
+
+271) AGE_VALID
+Age valid
+
+
+
+272) STRATUM_KEY
+Stratum key
+
+
+
+273) STATE
+State
+
+
+
+274) PROJWT
+Projwt
+
+
+
+275) WEIGHT
+Weight
+
+
+
+276) Q2
+If possible, please provide the specific name of your denomination/sect. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination?
+
+
+
+277) RELTRAD
+Religious Tradition
+
+
+
+278) I-GENDER
+What is your gender? (for use with online analysis)
+
+
+
+279) I-EDUC
+What is the highest level of education you have completed? (Please mark only one box.) (Recoded for use with online analysis)
+
+
+
+280) I-MARITAL
+What is your current marital status? (Recoded for use with online analysis)
+
+
+
+281) I-RELIGION
+Religious Tradition (Recoded for use with online analysis)
+
+
+
+282) I-ATTEND
+How often do you attend religious services at a place of worship? (Recoded for use with online analysis)
+
+
+
